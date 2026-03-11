@@ -1,4 +1,4 @@
-# emhamitay-# Hi, I'm Amitay 👋
+# emhamitay- Hi, I'm Amitay 👋
 
 Frontend & fullstack developer with a passion for building clean, thoughtful UI and well-architected React applications.
 
